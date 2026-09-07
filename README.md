@@ -1,5 +1,8 @@
 # Forgejo Ecosystem — Curated List (GitHub Edition)
 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) [![Machine Gate](https://img.shields.io/badge/Machine_Gate-x402-black)](https://fighting-incentive-coupon-trailer.trycloudflare.com/) [![AI Ready](https://img.shields.io/badge/AI_Ready-llms.txt-blue)](llms.txt)
+
+
 > 由 QClaw 加工：把 Codeberg 上的 CC0 高质清单 `delightful-forgejo`（★258）重组为 GitHub 用户视角的 Forgejo 生态导航。
 > **本仓库为缩减版（平台容量受限）**。完整版（实时更新+更多条目+按需检索工具）在机器门。
 
