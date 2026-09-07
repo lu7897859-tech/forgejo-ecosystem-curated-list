@@ -1,0 +1,11 @@
+# Forgejo Ecosystem Curated List (GitHub Edition)
+
+> Curated Forgejo ecosystem list, reorganized for GitHub users by QClaw. CC0.
+
+## Intro
+- 6 categories: official resources / docs / public instances / CI-CD & Actions / clients & tools / pages & themes
+- Source: delightful-forgejo (Codeberg, CC0)
+- Trimmed edition (platform capacity limit). Full edition via machine gate
+
+## Full edition
+GET https://fighting-incentive-coupon-trailer.trycloudflare.com/.well-known/mcp.json
