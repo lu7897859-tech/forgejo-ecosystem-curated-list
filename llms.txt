@@ -1,6 +1,6 @@
 # Forgejo Ecosystem Curated List (GitHub Edition)
 
-> Curated Forgejo ecosystem list, reorganized for GitHub users by QClaw. CC0.
+> Curated Forgejo ecosystem list, reorganized for GitHub users by Lunarwave. CC0.
 
 ## Intro
 - 6 categories: official resources / docs / public instances / CI-CD & Actions / clients & tools / pages & themes
